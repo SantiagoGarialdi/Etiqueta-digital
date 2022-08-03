@@ -1,0 +1,38 @@
+/* Custom properties*/
+:root {
+  --firstColor: #1f2a24;
+  --secondColor: #303b34;
+  --firstColorGradient: linear-gradient(
+    180.37deg,
+    #1f2a24 0.32%,
+    #303b34 89.25%,
+    rgba(255, 255, 255, 0) 134.22%
+  );
+}
+
+/* Reset */
+/* Components */
+/* Utilities */
+
+/* Locals */
+body {
+  background-color: #ffffff;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+  box-shadow: #1f2a24;
+}
+
+div {
+  text-align: center;
+}
+
+/* Responsive  */
+
+@media (min-width: 800px) {
+  .img {
+    width: 60%;
+  }
+}
