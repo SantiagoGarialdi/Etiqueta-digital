@@ -16,12 +16,18 @@
 
 /* Locals */
 body {
-  background-color: #303B34;
+  background-color: #1F2A24;
   margin: 0;
 }
 
 img {
-  width: 80%;
+  width: 100%;
+  height: auto;
+  box-shadow: #1f2a24;
+}
+
+.etiqueta {
+   width: 70%;
   height: auto;
   box-shadow: #1f2a24;
 }
