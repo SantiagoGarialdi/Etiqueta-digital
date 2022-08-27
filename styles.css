@@ -33,7 +33,7 @@ img {
 }
 
 .etiqueta {
-   width: 70%;
+  width: 70%;
   height: auto;
   box-shadow: #1f2a24;
 }
@@ -45,7 +45,10 @@ div {
 /* Responsive  */
 
 @media (min-width: 800px) {
-  .img {
-    width: 60%;
+  img {
+    width: 80%;
+  }
+  .etiqueta {
+    width: 100%;
   }
 }
