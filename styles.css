@@ -21,7 +21,7 @@
 
 /* Locals */
 body {
-  background-color: var(firstColor);
+  background-color: rgb(31,42,36);
   margin: 0;
 }
 
