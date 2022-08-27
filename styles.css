@@ -44,7 +44,7 @@ div {
 
 /* Responsive  */
 
-@media (min-width: 800px) {
+@media (max-width: 600px) {
   img {
     width: 80%;
   }
