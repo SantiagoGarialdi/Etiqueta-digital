@@ -21,8 +21,9 @@
 
 /* Locals */
 body {
-  background-color: rgb(31,42,36);
+  background: rgb(31,42,36);
   margin: 0;
+  padding:0;
 }
 
 img {
