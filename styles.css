@@ -20,8 +20,15 @@ body {
   margin: 0;
 }
 
+h1 {
+  font-family: "cinzel decorative";
+  text-align: center;
+}
+
+h2
+
 .img {
-  width: 100%;
+  width: 80%;
   height: auto;
   box-shadow: #1f2a24;
 }
