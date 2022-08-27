@@ -16,8 +16,8 @@ box-sizing: border-box;
 /* Utilities */
 
 /* Locals */
-body {
-  background-color: yellow;
+.content {
+  background-color: rgb(31,42,36);
   margin: 0;
 }
 
